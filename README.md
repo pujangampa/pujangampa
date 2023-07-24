@@ -3,8 +3,6 @@
 
 - 💬 Ask me about **Python**
 
-- 📫 How to reach me **pujangampa9@gmail.com**
-
 - ⚡ Fun fact **Eat, Sleep, </>, Repeat**
 
 <h3 align="left">Connect with me:</h3>
