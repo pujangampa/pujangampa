@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pujan Gampa</h1>
 <h3 align="center">Cloud Computing and Information Security Analyst</h3>
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **.py**
 
 - ⚡ Fun fact **Eat, Sleep, </>, Repeat**
 
