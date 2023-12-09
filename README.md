@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Pujan Gampa</h1>
 <h3 align="center">Cloud Computing and Information Security Analyst</h3>
 
-<img align="right" alt="Coding" width="350" src="![image](https://github.com/pujangampa/pujangampa/assets/130989697/a7e08914-306a-4564-9195-cd7a39fe1773)
-">
+<img align="right" alt="Coding" width="350" src="https://www.contrastsecurity.com/hs-fs/hubfs/images/DevOps%20Solutions/devops-old-way.gif?width=1322&name=devops-old-way.gif">
+
 <br>
 
 - 🔭 I’m currently learning **DevOps**
