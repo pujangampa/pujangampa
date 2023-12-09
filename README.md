@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pujan Gampa</h1>
 <h3 align="center">Cloud Computing and Information Security Analyst</h3>
 
-<img align="right" alt="Coding" width="350" src="![image](https://github.com/pujangampa/pujangampa/assets/130989697/d933fe1a-43a1-4a53-9ab2-282b75806058)
-">
+<img align="right" alt="Coding" width="350" src="![image](https://github.com/pujangampa/pujangampa/assets/130989697/502855ff-72b7-44bf-9a1b-5ae316fbf8ac)">
 <br>
 
 - 🔭 I’m currently learning **DevOps**
