@@ -2,6 +2,7 @@
 <h3 align="center">Cloud Computing and Information Security Analyst</h3>
 <img align="right" alt="Coding" width="350" src="https://www.contrastsecurity.com/hs-fs/hubfs/images/DevOps%20Solutions/devops-old-way.gif?width=1322&name=devops-old-way.gif">
 
+<br><\br>
 - 🔭 I’m currently learning **DevOps**
 
 - 💬 Ask me about **Python, DSA and DevOps**
