@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Pujan Gampa</h1>
 <h3 align="center">Cloud Computing and Information Security Analyst</h3>
 
+<img align="right" alt="DevOps" width= "400" src="https://images.app.goo.gl/sRhimQYuE9mctpn87">
+
 - 💬 Ask me about **Python**
 
 - ⚡ Fun fact **Eat, Sleep, </>, Repeat**
