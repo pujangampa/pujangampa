@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pujan Gampa</h1>
 <h3 align="center">Cloud Computing and Information Security Analyst</h3>
 
-<img align="right" alt="Coding" width="300" src="https://www.contrastsecurity.com/hs-fs/hubfs/images/DevOps%20Solutions/devops-old-way.gif?width=1322&name=devops-old-way.gif">
+<img align="right" alt="Coding" width="350" src="https://www.contrastsecurity.com/hs-fs/hubfs/images/DevOps%20Solutions/devops-old-way.gif?width=1322&name=devops-old-way.gif">
 
 
 - 💬 Ask me about **Python**
