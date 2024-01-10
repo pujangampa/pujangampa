@@ -1,7 +1,7 @@
 <h1 align="center">Hello Geeks, Pujan here! 👋</h1>
 <h3 align="center">Cloud Computing and Information Security Analyst</h3>
 
-<img align="right" alt="Coding" width="350" src="![image](https://github.com/pujangampa/pujangampa/assets/130989697/f10e152f-6a56-41a7-a21e-3ce315b393fa)"
+<img align="right" alt="Coding" width="350" src="![image](https://github.com/pujangampa/pujangampa/assets/130989697/f10e152f-6a56-41a7-a21e-3ce315b393fa)">
 
 
 <br>
